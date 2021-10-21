@@ -1,2 +1,4 @@
 stream graph
 horizon graph
+parallel coordinates
+adjacency diagrams
